@@ -1,4 +1,4 @@
-package ru.netology.web;
+package ru.netology.data;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
@@ -10,3 +10,4 @@ public class UserData {
     private final String password;
     private final String status;
 }
+
